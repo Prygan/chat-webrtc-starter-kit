@@ -1,0 +1,22 @@
+{
+  "name": "chat-webrtc",
+  "version": "0.0.1",
+  "description": "A peer to peer chat app with WebRTC",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dashboard webpack-dev-server -d --hot --config webpack.config.js --watch",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dimitri Saingre",
+  "license": "MIT",
+  "dependencies": {
+    "webrtc-adapter": "^7.2.3"
+  },
+  "devDependencies": {
+    "webpack": "^4.31.0",
+    "webpack-cli": "^3.3.2",
+    "webpack-dashboard": "^3.0.6",
+    "webpack-dev-server": "^3.3.1"
+  }
+}
