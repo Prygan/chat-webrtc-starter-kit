@@ -20,7 +20,7 @@ Le sujet est à découper en deux "sprints" (au sens agile du terme), à défini
 
 Ce projet vous est proposé pour démarrer vos développements. Il utilise un certain nombre d'outils (npm, webpack...) déjà configuré et supposé vous aider à commencer plus rapidement. Libre à vous cependant de l'ignorer et d'en utiliser d'autres.
 
-Le contenu est celui d'un [tutoriel](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Simple_RTCDataChannel_sample) de Mozilla. Il illustre le fonctionnement de certaines parties de l'API WebRTC en local (sans _signaling server_).
+Le contenu est celui d'un [tutoriel](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Simple_RTCDataChannel_sample) de Mozilla. Il illustre le fonctionnement de certaines parties de l'API WebRTC en local (sans _STUN/TURN server_).
 
 Par soucis de simplicité, aucun framework n'a été prévu. Encore une fois, si vous êtes à l'aise avec un framework en particulier, libre à vous de l'utiliser (tant qu'il est justifié :) )
 
